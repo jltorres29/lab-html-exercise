@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+
+body {
+  font-family: 'Poppins';
+}
+
+header > div {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+  }
+
+  nav {
+    width: 600px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .blackHeart {
+    width: 20px;
+    margin-right: 1rem;
+  }
+
+  .npm {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+
+.segunda-linea {
+    padding: 0 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.div-join {
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.div-log {
+    color: black;
+    background-color: white;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.join-log {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 9em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.texto {
+    font-size: 2em;
+    font-weight: 100;
+    text-align: center;
+    margin: 120px 0;
+}
+
+.section-see {
+    height: auto;
+    background-color: red;
+    color: white;
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 30px;
+    width: 400px;
+    margin-right: 100px;
+    margin-left: 750px;
+    box-shadow: 8px 8px 0 rgba(251, 59, 73, 0.2);
+    display: inline-block;
+    justify-content: center;
+}
+
+.section-join {
+    height: auto;
+    background-color: white;
+    color: black;
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 30px;
+    width: 400px; 
+    display: inline-block;
+    justify-content: center;
+}
+
+.clase-secciones {
+    background-color: rgba(232, 217, 217, 0.3);
+}
+
+.hexagono {
+    height: 500px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2000px;
+    margin-right: 150rem;
+}
+
+.h2 {
+    background-color: rgba(255, 204, 53, 0.4)
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-hexagono {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-article {
+    font-size: 1em;
+    text-align: left;
+    border: 15px solid red;
+    box-sizing: border-box;
+    margin: -10px;
+    padding: 50px;
+    width: 50%;
+    background-color: rgba(232, 217, 217, 0.3);
+}
+    
+#alineacion {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
+  
+#alineacion .section-article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 370px;
+}
+  
+h3 {
+    font-size: 1em;
+    text-align: left;
+    line-height: 1em;
+    color: #ED1C24;
+    box-sizing: 8px 8px 0 rgba(251, 59, 73, 0.2);
+    border: 1px solid #ED1C24;
+    margin-right: 100px;
+}
+
+.section-article > img {
+    align-items: left;
+}
+
+.zero-configuration {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+.equipo {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+.familiar {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+.npm-audit {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+.form {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+.lupa {
+    width: 50px;
+    margin-right: 10rem;
+}
+
+.section-a {
+    background-color: black;
+    color: white;
+    font-size: 2em;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    padding: 10px 30px;
+    display: inline-block;
+    width: 600px;
+    text-align: center;
+    box-shadow: 8px 8px 0 rgba(128, 83, 35, 0.2);
+    margin-top: 100px;
+    margin-left: 1000px;
+    justify-content: center;
+}
+
+
+
